@@ -1,5 +1,5 @@
 .docx diff=pandoc
 
-ms.docx filter=git-crypt diff=git-crypt
-author_reply_TPB_v1.docx filter=git-crypt diff=git-crypt
+ms.docx filter=git-crypt
+author_reply_TPB_v1.docx filter=git-crypt
 *.key filter=git-crypt diff=git-crypt
