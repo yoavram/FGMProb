@@ -1,2 +1,4 @@
 ~$*.docx
 *.lnk
+*.pkl
+.ipynb_checkpoints
