@@ -16,3 +16,5 @@ An accompanying IPython notebook was deposited as [Supplementary  material](http
 Ram, Y., Hadany, L., 2014. The probability of improvement in Fisher’s geometric model: A probabilistic approach. _Theoretical Population Biology_. DOI: [10.1016/j.tpb.2014.10.004](http://dx.doi.org/10.1016/j.tpb.2014.10.004).
 
 ## License
+
+CC-BY-SA 3.0 on `ipynb` and `ggb` files. Full copyright on `docx` files (which are also encrypted) for now.
