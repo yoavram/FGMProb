@@ -17,4 +17,4 @@ Ram, Y., Hadany, L., 2014. The probability of improvement in Fisher’s geometri
 
 ## License
 
-CC-BY-SA 3.0 on `ipynb`, `pptx`, and `ggb` files. Full copyright on `docx` files (which are also encrypted) for now.
+CC-BY-SA 3.0 on `ipynb`, `pptx`, and `ggb` files. Full copyright is reserved to the author on `docx` files (which are also encrypted) for now.
