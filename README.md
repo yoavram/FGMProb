@@ -1,6 +1,6 @@
 # The probability of improvement in Fisher’s geometric model: A probabilistic approach
 
-This is the git repository for a paper published by [Theoretical Population Biology](http://tpb2014.yoavram.com/):
+This is the git repository for a paper published by [Theoretical Population Biology](http://tpb2014.yoavram.com/).
 
 ## Citation
 
