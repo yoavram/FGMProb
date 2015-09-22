@@ -1,11 +1,11 @@
 # The probability of improvement in Fisher’s geometric model: A probabilistic approach
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/yoavram/FGMProb)
 
-This is the git repository for a paper published by [Theoretical Population Biology](http://tpb2014.yoavram.com/).
+This is the git repository for a paper published by [Theoretical Population Biology](http://tpb2015.yoavram.com/).
 
 ## Citation
 
-Ram, Y., Hadany, L., 2015. The probability of improvement in Fisher’s geometric model: A probabilistic approach. _Theoretical Population Biology_, 99C, 1–6. DOI: [10.1016/j.tpb.2014.10.004](http://tpb2014.yoavram.com/).
+Ram, Y., Hadany, L., 2015. The probability of improvement in Fisher’s geometric model: A probabilistic approach. _Theoretical Population Biology_, 99C, 1–6. DOI: [10.1016/j.tpb.2014.10.004](http://tpb2015.yoavram.com/).
 
 ## Highlights
 - We use a probabilistic approach to derive the probability of improvement in Fisher’s geometric model of adaptation.
